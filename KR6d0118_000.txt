@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 無量義經
+#+DATE: 2015-08-30 19:50:20.528318
+#+PROPERTY: JUAN 0
